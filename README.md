@@ -1,2 +1,2 @@
 # hello-world
-practice to learn GitHub
+editing the hello-world page. then i will submit the changes.
